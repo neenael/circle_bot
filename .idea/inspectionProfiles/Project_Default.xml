@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="telebot" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.caption" />
+          <option value="str.parse_mode" />
+          <option value="float.__getitem__" />
+          <option value="M_03_DatabaseAndModels.mysite.shopapp.models.Product.objects" />
+          <option value="M_03_DatabaseAndModels.mysite.shopapp.models.Order.objects" />
+          <option value="friends_service.friends_project.friends_project.urls.friends_project" />
+          <option value="shop_app.views.*" />
+          <option value="api_app.models.Image.objects" />
+          <option value="api_app.models.Category.objects" />
+          <option value="api_app.tests.SignInTestCase.user" />
+          <option value="api_app.tests.CategoriesTestCase.img" />
+          <option value="api_app.tests.SignOutTestCase.user" />
+          <option value="api_app.tests.CategoriesTestCase.category" />
+          <option value="api_app.models.Product.objects" />
+          <option value="api_app.models.Sale.objects" />
+          <option value="auth_app.models.Profile.objects" />
+          <option value="api_app.models.Order.objects" />
+          <option value="api_app.models.OrderHistory.objects" />
+          <option value="api_app.models.Tag.objects" />
+          <option value="api_app.models.Specification.objects" />
+          <option value="api_app.models.Review.objects" />
+          <option value="django.http.request.HttpRequest.data" />
+          <option value="django.http.request.HttpRequest.query_params" />
+          <option value="django.http.request.HttpRequest.user" />
+          <option value="api_app.models.Basket.objects" />
+          <option value="api_app.models.OrderProduct.objects" />
+          <option value="django.http.request.HttpRequest.session" />
+          <option value="django.db.models.fields.related.OneToOneField.title" />
+          <option value="api_app.models.Order.id" />
+          <option value="django.db.models.fields.DateTimeField.date" />
+          <option value="api_app.models.Basket.id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
